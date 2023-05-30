@@ -1,6 +1,6 @@
 # Gunung Luhur Camp
 
-The project was created using Laravel 8 to order tickets and rent tents online for camping at Gunung Luhur Camp.
+The project was created using Laravel 8 for ordering tickets and renting tents online for camping at Gunung Luhur Camp.
 
 ## Installation
 
