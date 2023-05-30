@@ -23,5 +23,5 @@ Admin
 
 Pengelola
 
--   username = penglola
+-   username = pengelola
 -   password = pengelola123
